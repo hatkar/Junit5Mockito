@@ -1,0 +1,7 @@
+dans ce projet on a essaye de travailler avec junit5 Mockito BDD
+on a tester :
+la repository StudentRepository
+Le Classe de Service StudentService
+Le Controller StudentController
+
+

@@ -1,0 +1,9 @@
+"input	expected",expected
+100,TRUE
+150,TRUE
+23,FALSE
+22,TRUE
+21,FALSE
+55,FALSE
+53,FALSE
+202,TRUE
